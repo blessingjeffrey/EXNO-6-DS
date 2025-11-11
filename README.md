@@ -10,7 +10,7 @@
 
 STEP 1: Include the necessary Library.
 
-STEP 2: Read the given Data.
+STEP 2: Read the given Data. 
 
 STEP 3: Apply data visualization techniques to identify the patterns of the data.
 
